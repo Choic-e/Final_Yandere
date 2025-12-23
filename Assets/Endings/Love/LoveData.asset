@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72d065f3a04fd4a5eb79991d77a7506e, type: 3}
+  m_Name: LoveData
+  m_EditorClassIdentifier: Assembly-CSharp::CutsceneData
+  steps:
+  - narrationText: As you turn to leave, he calls out to you one last time.
+    changeImage: 0
+    newCutsceneImage: {fileID: 21300000, guid: f95f67c0628c5476f8fbbf92fe2589d1, type: 3}
+    isEndingStep: 0
+  - narrationText: "\u201CI know\u2026 I know.\""
+    changeImage: 1
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: The unsettling thought creeps in.
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: "\"I\u2014I know I was destroying you.\u201D"
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: "\u201CI\u2019ve never met anyone like you before.\u201D"
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: "\u201CI was terrified you would abandon me.\u201D"
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: "\u201CSo I needed to confirm you\u2014 no matter what it took.\u201D"
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: "\u201CI\u2026 really loved you.\u201D"
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: "\u201CI never wanted to scare you\u2026\u201D"
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: "\u201C\u2026Thank you for being with me. I\u2019m\u2026 truly
+      sorry. You should go now.\u201D"
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: You step out through the front door.
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: "After leaving Dewey behind, you think long and hard, and finally
+      send him a message\u2014 ending the relationship clearly and decisively."
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: He replies that he understands. After that, you never see him
+      again.
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: Months later, you hear news about Dewey through your friends.
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: "\u201CHey\u2026 have you seen Dewey? He suddenly dropped out.\u201D"
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: You conclude that you must never escape this relationship...
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: "\u201CThey said he needs time to deal with his own issues.\u201D"
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: Your life goes on.
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: "He is left alone\u2014 but perhaps, for the first time, he will
+      finally face himself."
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: Salvation is a long journey, and in the end, it is one we must
+      walk alone.
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0

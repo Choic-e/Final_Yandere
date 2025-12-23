@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72d065f3a04fd4a5eb79991d77a7506e, type: 3}
+  m_Name: ObsessionData
+  m_EditorClassIdentifier: Assembly-CSharp::CutsceneData
+  steps:
+  - narrationText: As you reach for the door, his voice follows you.
+    changeImage: 1
+    newCutsceneImage: {fileID: 21300000, guid: f95f67c0628c5476f8fbbf92fe2589d1, type: 3}
+    isEndingStep: 0
+  - narrationText: "\u201COf course\u2026 we were always meant to be one.\u201D"
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: "\u201CYou\u2019re trying to run away.\u201D"
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: "\u201CYou can\u2019t escape from me.\u201D"
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: "\u201CYou know how much I love you.\u201D"
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: "\u201CYou know I will never let you go.\u201D"
+    changeImage: 1
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: "\u2026 "
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: Your scream never reaches the outside.
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: ...
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: You wake up in an unfamiliar room, its windows completely covered.
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: Every connection to the outside world has been severed.
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: Only one person ever comes to see you.
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: "\u201CPeople might call this obsession.\u201D"
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: "\u201CBut this is my love.\u201D"
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: "\u201CI\u2019ll even accept your rejection with joy.\u201D"
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: "\u201CBecause you have always been my god.\u201D"
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: "\u201CI love you.\u201D"
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0

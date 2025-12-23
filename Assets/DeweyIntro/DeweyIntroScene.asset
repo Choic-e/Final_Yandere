@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72d065f3a04fd4a5eb79991d77a7506e, type: 3}
+  m_Name: DeweyIntroScene
+  m_EditorClassIdentifier: Assembly-CSharp::CutsceneData
+  steps:
+  - narrationText: You first met him in the corner of a university classroom hallway.
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: A timid young man, visibly unsettled, wandering through a place
+      that was not yet his own.
+    changeImage: 1
+    newCutsceneImage: {fileID: 21300000, guid: 02b16d9dbcd6241c69393c033b4953dc, type: 3}
+    isEndingStep: 0
+  - narrationText: "You noticed him hesitate, falter\u2014so you stepped in. "
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: 'It was nothing more than a small kindness. '
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: 'You could not have known that this kindness would become the
+      most dangerous mistake of your life. '
+    changeImage: 1
+    newCutsceneImage: {fileID: 21300000, guid: 606f7bb230719467ba2c5e1ed84b6cf3, type: 3}
+    isEndingStep: 0
+  - narrationText: In the spring of your sophomore year, he handed you a confession.
+      Nearly one hundred and fifty pages long.
+    changeImage: 1
+    newCutsceneImage: {fileID: 21300000, guid: c575c844ab5c0494797931e8adf3d9fd, type: 3}
+    isEndingStep: 0
+  - narrationText: 'Confronted with such relentless devotion, you eventually accepted
+      him as your lover. '
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: 'However, he was obsessive by nature. '
+    changeImage: 1
+    newCutsceneImage: {fileID: 21300000, guid: 1b150fde02b7540449b9b9e594b696c0, type: 3}
+    isEndingStep: 0
+  - narrationText: Over a hundred messages a day. Endless suspicion. Constant watchfulness.
+    changeImage: 1
+    newCutsceneImage: {fileID: 21300000, guid: bbe667bba0a5943c990aa2aa55422bd5, type: 3}
+    isEndingStep: 0
+  - narrationText: "Whenever you were apart, guilt clung to you\u2014as though leaving
+      him, even briefly, was a crime. "
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: 'You began to understand that this was not love. '
+    changeImage: 1
+    newCutsceneImage: {fileID: 21300000, guid: 821261b1fede0444fbcaf3c28a90f151, type: 3}
+    isEndingStep: 0
+  - narrationText: You realized this was not healthy. You turned off his notifications.
+    changeImage: 0
+    newCutsceneImage: {fileID: 21300000, guid: 83572e14ae1a045f5ab6a7d53e6f5a7f, type: 3}
+    isEndingStep: 0
+  - narrationText: "Alone, with no family to rely on, you began searching for a way
+      to escape him\u2014safely. "
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: 'Now, you are in his small apartment to end things. '
+    changeImage: 1
+    newCutsceneImage: {fileID: 21300000, guid: 1b150fde02b7540449b9b9e594b696c0, type: 3}
+    isEndingStep: 0
+  - narrationText: "After you were briefly went to the bathroom\u2026 "
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: 'You see him holding your phone. '
+    changeImage: 1
+    newCutsceneImage: {fileID: 21300000, guid: 2b5a921c3f90f48c68e3c843c0ff7647, type: 3}
+    isEndingStep: 0
+  - narrationText: A cold smile curls at the corner of his lips.
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: His eyes are filled with obsession and a sense of betrayal.
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: 'He has no intention of letting you go. '
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0

@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72d065f3a04fd4a5eb79991d77a7506e, type: 3}
+  m_Name: MixedData
+  m_EditorClassIdentifier: Assembly-CSharp::CutsceneData
+  steps:
+  - narrationText: "\u2026"
+    changeImage: 1
+    newCutsceneImage: {fileID: 21300000, guid: f95f67c0628c5476f8fbbf92fe2589d1, type: 3}
+    isEndingStep: 0
+  - narrationText: "I won\u2019t let you break up with me. "
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: 'No matter how many times you say it, '
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: "I\u2019ll chase you down."
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: Remember,
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: "Remember what you did\u2026"
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: You conclude that you must never escape this relationship...
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: "We exist for each other\u2026"
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: ...
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: You lose your reason for a moment.
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: Again.
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: And again.
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: And again. And again.
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: Just before it goes too far,
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: you come back to your senses.
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: "He looks\u2026 happy."
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: ...
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: "\u201CI hope your illness never gets better.\u201D"
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 0
+  - narrationText: "\u2026And he lived happily ever after with you."
+    changeImage: 0
+    newCutsceneImage: {fileID: 0}
+    isEndingStep: 1
